@@ -1,0 +1,19 @@
+﻿#rsvpform label {
+    width: 120px;
+    display: inline-block;
+}
+
+#rsvpform input {
+    margin: 2px;
+    width: 150px;
+}
+
+#rsvpform select {
+    margin: 2px;
+    width: 154px;
+    background-color: floralwhite;
+}
+
+button[type=submit] {
+    margin-top: 5px;
+}
